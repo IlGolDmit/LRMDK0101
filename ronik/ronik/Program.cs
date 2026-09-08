@@ -19,7 +19,7 @@ namespace ronik
             {
                 a = c;
             }
-            Console.WriteLine(a);
+            Console.WriteLine("Максимальное: " + a);
         }
     }
 }

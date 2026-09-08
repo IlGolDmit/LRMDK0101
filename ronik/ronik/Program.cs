@@ -10,7 +10,7 @@ namespace ronik
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("a");
+            Console.WriteLine("a");kllk
         }
     }
 }

@@ -10,7 +10,7 @@ namespace ronik
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("a");
+            int a = Convert.ToInt32(Console.ReadLine()), b = Convert.ToInt32(Console.ReadLine()), c = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
